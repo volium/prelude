@@ -1,4 +1,4 @@
-update=8/16/2017 6:06:43 PM
+update=8/23/2017 4:08:48 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,5 +58,6 @@ LibName28=contrib
 LibName29=valves
 LibName30=volium
 LibName31=stm32
+LibName32=switches
 [general]
 version=1
