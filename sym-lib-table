@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name volium)(type Legacy)(uri C:/Github/kicadlib/volium.lib)(options "")(descr ""))
+)
