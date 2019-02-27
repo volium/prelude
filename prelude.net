@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Github\prelude\prelude.sch)
-    (date "2/24/2019 7:56:49 PM")
+    (date "2/27/2019 2:24:18 PM")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -108,7 +108,7 @@
       (tstamp 5998397A))
     (comp (ref J2)
       (value USB_C)
-      (footprint volium:Amphenol_12401548E4#2A)
+      (footprint volium:D0-9062-005LG)
       (libsource (lib volium) (part USB_C) (description "USB Type C connector"))
       (sheetpath (names /) (tstamps /))
       (tstamp 599B7C41))
