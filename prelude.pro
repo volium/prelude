@@ -1,4 +1,4 @@
-update=4/7/2019 9:32:07 PM
+update=4/14/2019 3:04:56 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -12,7 +12,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=prelude.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -54,7 +54,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.0508
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=Top
 Type=0
