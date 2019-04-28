@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Github\prelude\prelude.sch)
-    (date "4/14/2019 3:03:51 PM")
+    (date "4/27/2019 8:44:09 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -23,7 +23,7 @@
       (tstamp 5994BE1F))
     (comp (ref L2)
       (value 22uH)
-      (footprint Inductor_SMD:L_Taiyo-Yuden_NR-30xx)
+      (footprint Inductor_SMD:L_Taiyo-Yuden_NR-30xx_HandSoldering)
       (libsource (lib Device) (part L) (description Inductor))
       (sheetpath (names /) (tstamps /))
       (tstamp 5994C796))
@@ -96,7 +96,7 @@
       (tstamp 59963C06))
     (comp (ref L1)
       (value 2.2uH)
-      (footprint Inductor_SMD:L_Taiyo-Yuden_NR-24xx)
+      (footprint Inductor_SMD:L_Taiyo-Yuden_NR-24xx_HandSoldering)
       (libsource (lib Device) (part L) (description Inductor))
       (sheetpath (names /) (tstamps /))
       (tstamp 5996478A))

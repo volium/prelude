@@ -31,7 +31,7 @@ U 1 1 5994C796
 P 7900 750
 F 0 "L2" V 7850 750 50  0000 C CNN
 F 1 "22uH" V 7975 750 50  0000 C CNN
-F 2 "Inductor_SMD:L_Taiyo-Yuden_NR-30xx" H 7900 750 50  0001 C CNN
+F 2 "Inductor_SMD:L_Taiyo-Yuden_NR-30xx_HandSoldering" H 7900 750 50  0001 C CNN
 F 3 "" H 7900 750 50  0001 C CNN
 	1    7900 750 
 	0    -1   -1   0   
@@ -261,7 +261,7 @@ U 1 1 5996478A
 P 5600 1000
 F 0 "L1" V 5550 1000 50  0000 C CNN
 F 1 "2.2uH" V 5675 1000 50  0000 C CNN
-F 2 "Inductor_SMD:L_Taiyo-Yuden_NR-24xx" H 5600 1000 50  0001 C CNN
+F 2 "Inductor_SMD:L_Taiyo-Yuden_NR-24xx_HandSoldering" H 5600 1000 50  0001 C CNN
 F 3 "" H 5600 1000 50  0001 C CNN
 	1    5600 1000
 	0    -1   -1   0   
